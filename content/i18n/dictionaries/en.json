@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "research": "Research",
+    "publications": "Publications",
+    "teaching": "Teaching",
+    "cv": "CV",
+    "talks": "Talks & Conferences",
+    "community": "Community Engagement",
+    "news": "News & Media",
+    "contact": "Contact",
+    "dissertation": "Dissertation",
+    "downloadCv": "Download CV",
+    "skipToContent": "Skip to main content",
+    "menu": "Menu",
+    "closeMenu": "Close menu"
+  },
+  "home": {
+    "viewResearch": "View Research",
+    "contactMe": "Contact Me",
+    "researchSnapshot": "Research snapshot",
+    "currentStatus": "Current status",
+    "selectedPublications": "Selected publications",
+    "viewAllPublications": "View all publications",
+    "teachingSnapshot": "Teaching",
+    "viewTeaching": "View full teaching page",
+    "featuredWork": "Featured work",
+    "latestNews": "Latest news",
+    "dissertationStage": "Dissertation stage",
+    "expectedCompletion": "Expected completion",
+    "institution": "Institution",
+    "jobMarketStatus": "Job-market status"
+  },
+  "publications": {
+    "filterByYear": "Year",
+    "filterByType": "Type",
+    "filterByTheme": "Theme",
+    "filterByAuthorship": "Authorship",
+    "filterByPeerReview": "Peer review",
+    "filterByAccess": "Open access",
+    "all": "All",
+    "singleAuthored": "Single-authored",
+    "coAuthored": "Co-authored",
+    "peerReviewedOnly": "Peer-reviewed only",
+    "openAccessOnly": "Open access only",
+    "published": "Published & forthcoming",
+    "workInProgress": "Works in progress",
+    "publicScholarship": "Public scholarship",
+    "abstract": "Abstract",
+    "bibtex": "BibTeX",
+    "doi": "DOI",
+    "noResults": "No publications match these filters."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "sampleContentNotice": "This site currently displays sample placeholder content for demonstration."
+  },
+  "contact": {
+    "heading": "Get in touch",
+    "intro": "I welcome inquiries about research collaboration, speaking or media requests, and questions from graduate students and community partners.",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send message",
+    "success": "Thank you \u2014 your message has been sent.",
+    "error": "Something went wrong. Please try again or email directly."
+  }
+}

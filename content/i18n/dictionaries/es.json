@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre m\u00ed",
+    "research": "Investigaci\u00f3n",
+    "publications": "Publicaciones",
+    "teaching": "Docencia",
+    "cv": "CV",
+    "talks": "Ponencias y Conferencias",
+    "community": "Vinculaci\u00f3n Comunitaria",
+    "news": "Noticias y Medios",
+    "contact": "Contacto",
+    "dissertation": "Tesis Doctoral",
+    "downloadCv": "Descargar CV",
+    "skipToContent": "Saltar al contenido principal",
+    "menu": "Men\u00fa",
+    "closeMenu": "Cerrar men\u00fa"
+  },
+  "home": {
+    "viewResearch": "Ver Investigaci\u00f3n",
+    "contactMe": "Contactar",
+    "researchSnapshot": "\u00c1reas de investigaci\u00f3n",
+    "currentStatus": "Estado actual",
+    "selectedPublications": "Publicaciones seleccionadas",
+    "viewAllPublications": "Ver todas las publicaciones",
+    "teachingSnapshot": "Docencia",
+    "viewTeaching": "Ver p\u00e1gina completa de docencia",
+    "featuredWork": "Trabajo destacado",
+    "latestNews": "\u00daltimas noticias",
+    "dissertationStage": "Etapa de la tesis",
+    "expectedCompletion": "Finalizaci\u00f3n prevista",
+    "institution": "Instituci\u00f3n",
+    "jobMarketStatus": "Estado en el mercado laboral"
+  },
+  "publications": {
+    "filterByYear": "A\u00f1o",
+    "filterByType": "Tipo",
+    "filterByTheme": "Tema",
+    "filterByAuthorship": "Autor\u00eda",
+    "filterByPeerReview": "Revisi\u00f3n por pares",
+    "filterByAccess": "Acceso abierto",
+    "all": "Todos",
+    "singleAuthored": "Autor\u00eda individual",
+    "coAuthored": "Coautor\u00eda",
+    "peerReviewedOnly": "Solo revisado por pares",
+    "openAccessOnly": "Solo acceso abierto",
+    "published": "Publicado y en prensa",
+    "workInProgress": "Trabajo en progreso",
+    "publicScholarship": "Divulgaci\u00f3n",
+    "abstract": "Resumen",
+    "bibtex": "BibTeX",
+    "doi": "DOI",
+    "noResults": "Ninguna publicaci\u00f3n coincide con estos filtros."
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "sampleContentNotice": "Este sitio muestra actualmente contenido de muestra con fines de demostraci\u00f3n."
+  },
+  "contact": {
+    "heading": "Contacto",
+    "intro": "Doy la bienvenida a consultas sobre colaboraci\u00f3n en investigaci\u00f3n, solicitudes de conferencias o medios de comunicaci\u00f3n, y preguntas de estudiantes de posgrado y socios comunitarios.",
+    "name": "Nombre",
+    "email": "Correo electr\u00f3nico",
+    "subject": "Asunto",
+    "message": "Mensaje",
+    "send": "Enviar mensaje",
+    "success": "Gracias \u2014 tu mensaje ha sido enviado.",
+    "error": "Algo sali\u00f3 mal. Int\u00e9ntalo de nuevo o escribe directamente por correo."
+  }
+}

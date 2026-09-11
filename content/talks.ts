@@ -1,0 +1,52 @@
+import type { Talk } from "@/lib/types";
+
+// SAMPLE CONTENT — replace with the candidate's actual talks record.
+export const talks: Talk[] = [
+  {
+    slug: "aaal-2026-invited",
+    title: "Rethinking generational \u201Closs\u201D in heritage Spanish",
+    event: "American Association for Applied Linguistics Annual Conference",
+    organization: "AAAL",
+    location: "[City, State]",
+    date: "2026-03-14",
+    type: "invited-talk",
+    abstract: "Sample abstract for an invited talk reframing generational variation in heritage Spanish.",
+    slidesUrl: "#",
+    relatedPublicationSlug: "intergenerational-variation-2025",
+    language: "en",
+  },
+  {
+    slug: "aatsp-2025-conference",
+    title: "Teaching without correcting: heritage pedagogy in practice",
+    event: "AATSP Annual Conference",
+    organization: "AATSP",
+    location: "Online",
+    date: "2025-07-10",
+    type: "conference-presentation",
+    abstract: "Sample abstract on classroom-tested strategies for affirming heritage speaker varieties.",
+    slidesUrl: "#",
+    handoutUrl: "#",
+    language: "en",
+  },
+  {
+    slug: "dept-colloquium-2024",
+    title: "Community partnership as method: findings from Comunidad Hablando",
+    event: "Department Linguistics Colloquium",
+    organization: "[University Name]",
+    location: "[City, State]",
+    date: "2024-11-02",
+    type: "department-talk",
+    relatedPublicationSlug: undefined,
+    language: "en",
+  },
+  {
+    slug: "poster-nwav-2023",
+    title: "Variation in sibilant weakening among third-generation heritage speakers",
+    event: "New Ways of Analyzing Variation (NWAV)",
+    organization: "NWAV",
+    location: "[City, State]",
+    date: "2023-10-19",
+    type: "poster",
+    language: "en",
+  },
+];
